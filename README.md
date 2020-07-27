@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NodeJS, Spring Boot, JHipster and the rest
+- 🚀 I've built out Angular & React applications, implemented GraphQL APIs 
+- 🥋 I've experience building enterprise Java and C# .NET applications 
+- 📱 Ask me about Mobile apps, built iOS and Android native apps
 - ⚡ Fun fact: Spent some time at Miramar.
 <!--
 **5eanmcd/5eanmcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
