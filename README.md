@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NodeJS, Spring Boot, JHipster and the rest
+
 <!--
 **5eanmcd/5eanmcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
