@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NodeJS, Spring Boot, JHipster and the rest
-
+- ⚡ Fun fact: Spent some time at Miramar.
 <!--
 **5eanmcd/5eanmcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
